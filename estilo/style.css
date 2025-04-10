@@ -114,7 +114,7 @@ main img{
     margin: auto;
     max-width: 350px;
 }
-article  h1, h2{
+article > h1, h2{
     font-family: var(--fonte-android);
     color: var(--cor4);
     padding:5px 1px 5px 10px;
